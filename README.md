@@ -27,4 +27,7 @@ See the packages included with Anaconda and the Anaconda changelog."
 - FiveThirtyEight has a [github account](https://github.com/fivethirtyeight) Where they
   post all of the data the use in their articles.
 - kaggle [data science competitions](https://www.kaggle.com/competitions)
-- AWS our benevolent overloards as tons of [free data sets](http://aws.amazon.com/public-data-sets/)
+- AWS, our benevolent overlords have tons of [free data sets](http://aws.amazon.com/public-data-sets/)
+- [Quantopian](https://www.quantopian.com/data)
+- [Stanford](http://snap.stanford.edu/data/)
+- [University of California, Irvine](https://archive.ics.uci.edu/ml/datasets.html)
